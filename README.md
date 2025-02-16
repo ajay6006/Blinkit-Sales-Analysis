@@ -11,7 +11,7 @@ This Power BI dashboard provides a comprehensive sales analysis for Blinkit, off
 - **Power BI** for data visualization  
 - **DAX (Data Analysis Expressions)** for calculations  
 - **Excel/CSV** for data Importing
-- 
+
 ## 📊 Key Insights  
 
 - **Total Sales:** $1.20M  
